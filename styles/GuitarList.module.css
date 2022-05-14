@@ -1,0 +1,6 @@
+.list {
+    justify-content: center;
+    display: grid;
+    gap: 4rem;
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 34rem));
+}
