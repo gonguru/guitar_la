@@ -1,0 +1,7 @@
+.entries {
+    width: 100%;
+    display: grid;
+    justify-content: center;
+    gap: 4rem;
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 35rem));
+}
